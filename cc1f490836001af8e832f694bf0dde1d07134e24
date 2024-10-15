@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ec40284b_6bbecbf8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2024-10-15T07:35:53Z",
+      "side": 1,
+      "message": "minor hints, other than that LGTM 👍\n\nTested in CBS https://cbs.centos.org/koji/taskinfo?taskID\u003d4256547 as well",
+      "revId": "cc1f490836001af8e832f694bf0dde1d07134e24",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "69cb91d9_5a864127",
+        "filename": "python-watcherclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2024-10-15T07:35:53Z",
+      "side": 1,
+      "message": "0x22284f69d9eccdf3df7819791c711af193ff8e54 \nwhich is the Epoxy one",
+      "range": {
+        "startLine": 2,
+        "startChar": 25,
+        "endLine": 2,
+        "endChar": 67
+      },
+      "revId": "cc1f490836001af8e832f694bf0dde1d07134e24",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a65dde50_2c375e2f",
+        "filename": "python-watcherclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2024-10-15T07:35:53Z",
+      "side": 1,
+      "message": "extra to be removed I guess",
+      "range": {
+        "startLine": 15,
+        "startChar": 69,
+        "endLine": 15,
+        "endChar": 75
+      },
+      "revId": "cc1f490836001af8e832f694bf0dde1d07134e24",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
