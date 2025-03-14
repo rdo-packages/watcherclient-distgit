@@ -16,8 +16,8 @@ This is a client for the OpenStack Watcher API. There's a osc plugin \
 and a command-line script (watcher).
 
 Name:             python-watcherclient
-Version:          XXX
-Release:          XXX
+Version:          4.8.0
+Release:          1%{?dist}
 Summary:          Python API and CLI for OpenStack Watcher
 
 License:          Apache-2.0
@@ -131,3 +131,6 @@ unset https_proxy
 %endif
 
 %changelog
+* Fri Mar 14 2025 RDO <dev@lists.rdoproject.org> 4.8.0-1
+- Update to 4.8.0
+
