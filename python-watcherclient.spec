@@ -133,3 +133,4 @@ unset https_proxy
 %endif
 
 %changelog
+# REMOVEME: error caused by commit https://opendev.org/openstack/python-watcherclient/commit/fe8aa16dd734d663567dfc8666d652108c9d3bf9
